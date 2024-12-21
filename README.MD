@@ -20,3 +20,7 @@ It gives me a tangible idea of how data gets stored in memory and the difference
 ## Binary search
 
 ## Big O notation
+Big O notation tells you how fast an algorithm is. Big O doesn't tell you the speed in seconds. Big O notation lets you compare the number of operations.It tells you how fast the algorithm grows.
+
+### Big O establishes a worst-case run time 
+Big O notation is about the worst-case scenario, it's a reassurance, you know that the algorithm will not exceed the Big O time. 

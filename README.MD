@@ -58,12 +58,12 @@ Big O notation is about the worst-case scenario, it's a reassurance, you know th
 
 
 # Runtimes for common operations on arrays and lists
-
+```
             Arrays  Lists
 Reading     O(1)    O(n)
 Insertion   O(n)    O(1)
 Deletion    O(n)    O(1)
-
+```
 
 Arrays and lists, arrays allow random access , lists only allow sequential access. 
 
